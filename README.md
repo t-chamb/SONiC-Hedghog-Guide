@@ -1,9 +1,3 @@
-Awesome. I’ll dig into the Hedgehog project starting with their public GitHub repositories and documentation, and compile a comprehensive guide on how to build and deploy their SONiC-based network fabric on Dell Broadcom switches.
-
-This will include building the switch OS images, deploying the Fabricator, Gateway, and Dataplane components, and covering both bare metal and container-based workflows for production and development use.
-
-I’ll let you know when the guide is ready for review.
-
 # Hedgehog SONiC-Based Network Deployment Guide (Dell Broadcom Switches)
 
 ## Overview of Hedgehog Open Network Fabric
